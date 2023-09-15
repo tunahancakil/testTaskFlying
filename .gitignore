@@ -1,0 +1,4 @@
+.idea
+.git/
+src/bin
+tests/WebUI/obj

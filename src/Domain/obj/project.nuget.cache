@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hnAwdw3OU8z3acObybAqMzABE5Er6Eb3K8U4I4jmrbDMT0pB/o4cxwJGQwO+vMXTdEqeC6LQqbO8spq9gLfkyA==",
+  "success": true,
+  "projectFilePath": "/Users/tunahanc/Desktop/testTaskFlying/src/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/tunahanc/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

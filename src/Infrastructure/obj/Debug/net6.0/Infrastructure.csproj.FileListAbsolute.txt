@@ -1,0 +1,17 @@
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/bin/Debug/net6.0/Todo_App.Infrastructure.deps.json
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/bin/Debug/net6.0/Todo_App.Infrastructure.dll
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/bin/Debug/net6.0/Todo_App.Infrastructure.pdb
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/bin/Debug/net6.0/Todo_App.Application.dll
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/bin/Debug/net6.0/Todo_App.Domain.dll
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/bin/Debug/net6.0/Todo_App.Application.pdb
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/bin/Debug/net6.0/Todo_App.Domain.pdb
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CopyComplete
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/obj/Debug/net6.0/Todo_App.Infrastructure.dll
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/obj/Debug/net6.0/refint/Todo_App.Infrastructure.dll
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/obj/Debug/net6.0/Todo_App.Infrastructure.pdb
+/Users/tunahanc/Desktop/testTaskFlying/src/Infrastructure/obj/Debug/net6.0/ref/Todo_App.Infrastructure.dll

@@ -1,0 +1,6 @@
+{
+  "Todo_App.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/tunahanc\/Desktop\/testTaskFlying\/src\/Application",
+  "Todo_App.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/tunahanc\/Desktop\/testTaskFlying\/src\/Domain",
+  "Todo_App.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/tunahanc\/Desktop\/testTaskFlying\/src\/Infrastructure",
+  "Todo_App.WebUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/tunahanc\/Desktop\/testTaskFlying\/src\/WebUI"
+}
